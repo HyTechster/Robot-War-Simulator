@@ -1,0 +1,33 @@
+M by N: 10 15
+turns: 120
+robots: 30
+RoboCop RC01_Askar1 0 0
+RoboCop RC02_Askar2 1 12
+RoboCop RC03_Askar3 2 4
+Terminator T01_Kuda1 3 8
+Terminator T02_Kuda2 4 5
+Terminator T03_Kuda3 5 10
+TerminatorRoboCop TR01_Serigala1 6 1
+TerminatorRoboCop TR02_Serigala2 7 14
+TerminatorRoboCop TR03_Serigala3 8 7
+BlueThunder BT01_Doktor1 9 11
+BlueThunder BT02_Doktor2 0 9
+BlueThunder BT03_Doktor3 1 2
+MadBot MB01_Bangsawan1 2 13
+MadBot MB02_Bangsawan2 3 3
+MadBot MB03_Bangsawan3 4 12
+RoboTank RT01_Harimau1 5 0
+RoboTank RT02_Harimau2 6 6
+RoboTank RT03_Harimau3 7 5
+UltimateRobot UR01_Gorila1 8 9
+UltimateRobot UR02_Gorila2 9 3
+UltimateRobot UR03_Gorila3 0 14
+KiloBot KB01_Dubuk1 1 1
+KiloBot KB02_Dubuk2 2 10
+KiloBot KB03_Dubuk3 3 6
+MegaBot MT01_Helang1 4 0
+MegaBot MT02_Helang2 5 13
+MegaBot MT03_Helang3 6 2
+GigaBot GB01_Singa1 7 8
+GigaBot GB02_Singa2 8 4
+GigaBot GB03_Singa3 9 7
